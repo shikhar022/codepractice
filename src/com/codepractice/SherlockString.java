@@ -3,7 +3,7 @@ package com.codepractice;
 import java.util.HashMap;
 import java.util.Map;
 
-public class SherlockStringHackerrank {
+public class SherlockString {
     private static int alternatingSequence(String s){
         int deleted = 0;
         for(int i=0;i<s.length()-1;i++){
